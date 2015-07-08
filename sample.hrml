@@ -6,14 +6,8 @@
   </head>
 
   <body>
-    <p>
-      hell
-
-    </p>
-
-    <p>
-      This is other HTML TAG FOR sample branch...
-    </p>
+    <p>hello</p>
+    <p>This is other HTML TAG FOR sample branch...</p>
   </body>
 
 </html>
